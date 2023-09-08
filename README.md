@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Aliffio Syah M
+# Hi 👋, I'm Alif
 
 For this project, I make them with SASS or we can said CSS Preprocessor. This project is the result of my learning journey in SASS. Teaching by Jonas Schmedtmann on one his course in udemy.
 
